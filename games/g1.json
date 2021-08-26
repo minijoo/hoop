@@ -1,0 +1,84 @@
+{
+  "teamA": {
+    "id": "team-1",
+    "name": "blue team"
+  },
+  "teamB": {
+    "id": "team-2",
+    "name": "red team"
+  },
+  "players": [
+    {
+      "id": "pl-1A",
+      "team": "team-1",
+      "name": "Player 1A",
+      "number": "35"
+    },
+    {
+      "id": "pl-2A",
+      "team": "team-1",
+      "name": "Player 2A",
+      "number": "1"
+    },
+    {
+      "id": "pl-3A",
+      "team": "team-1",
+      "name": "Player 3A",
+      "number": "7"
+    },
+    {
+      "id": "pl-4A",
+      "team": "team-1",
+      "name": "Player 4A",
+      "number": "11"
+    },
+    {
+      "id": "pl-5A",
+      "team": "team-1",
+      "name": "Player 5A",
+      "number": "3"
+    },
+    {
+      "id": "pl-6A",
+      "team": "team-1",
+      "name": "Player 6A",
+      "number": "23"
+    },
+    {
+      "id": "pl-1B",
+      "team": "team-2",
+      "name": "Player 1B",
+      "number": "35"
+    },
+    {
+      "id": "pl-2B",
+      "team": "team-2",
+      "name": "Player 2B",
+      "number": "1"
+    },
+    {
+      "id": "pl-3B",
+      "team": "team-2",
+      "name": "Player 3B",
+      "number": "7"
+    },
+    {
+      "id": "pl-4B",
+      "team": "team-2",
+      "name": "Player 4B",
+      "number": "11"
+    },
+    {
+      "id": "pl-5B",
+      "team": "team-2",
+      "name": "Player 5B",
+      "number": "3"
+    },
+    {
+      "id": "pl-6B",
+      "team": "team-2",
+      "name": "Player 6B",
+      "number": "23"
+    }
+  ]
+}

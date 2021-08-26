@@ -1,0 +1,14 @@
+[
+  {
+    "id": "123",
+    "name": "Red vs Blue",
+    "description": "First game Oct 15th",
+    "gameFilePath": "./games/g1.json"
+  },
+  {
+    "id": "456",
+    "name": "Red vs Blue 2",
+    "description": "Second game Oct 15th",
+    "gameFilePath": "./games/g2.json"
+  }
+]

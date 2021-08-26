@@ -1,0 +1,24 @@
+{
+  "name": "hoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nelly",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^6.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.1.2",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "touch": "^3.1.0"
+  },
+  "type": "module"
+}
