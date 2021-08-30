@@ -1,4 +1,7 @@
 {
+  "id": "123",
+  "name": "Red vs Blue",
+  "description": "First game Oct 15th",
   "teamA": {
     "id": "team-1",
     "name": "blue team"

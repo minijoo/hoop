@@ -1,10 +1,12 @@
 // index.js
 
+import _ from "lodash";
 import chalk from "chalk";
 import clear from "clear";
 import figlet from "figlet";
 import inquirer from "./lib/inquirer.js";
-import files from "./lib/files.js";
+import helper from "./lib/helper.js";
+import plays from "./lib/plays.js";
 
 clear();
 
@@ -21,14 +23,22 @@ const run = async () => {
     // console.log(game);
   }
   if (purpose === "Load") {
-    const { gameToLoad } = await inquirer.askGameToLoad();
-    console.log(gameToLoad);
-    if (files.directoryExists(gameToLoad.gameFilePath)) {
-      console.log(`${gameToLoad.gameFilePath} found`);
-    } else {
-      throw new Error("Sorry. Unable to find " + gameToLoad.gameFilePath);
-    }
+    const { gameToLoad } = await inquirer.askGameToLoad(); // validates game files
+    const gamePath = gameToLoad.gameDirPath.trimEnd("/");
+    console.log(gamePath);
+    await helper.setupGameFiles(gamePath);
   }
+
+  // Game files are ready
+  plays.loadGame(gamePath);
+  console.log("Game loaded in memory");
+
+  do {
+    const input = await inquirer.askNextPlay();
+    if (!input.isExit) {
+      // record input
+    }
+  } while (!input.isExit);
 };
 
 run();
