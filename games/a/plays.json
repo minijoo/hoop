@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "6127b71ecd9c6afb38965804",
+    "category": "2PT",
+    "player": "35"
+  },
+  {
+    "_id": "6127b7f4cd9c6afb38965807",
+    "category": "TO",
+    "player": "11b"
+  },
+  {
+    "_id": "6127b82dcd9c6afb38965809",
+    "category": "2PTM",
+    "player": "34"
+  },
+  {
+    "_id": "a",
+    "parent": "6127b82dcd9c6afb38965809",
+    "category": "REB",
+    "player": "46b"
+  },
+  {
+    "_id": "6127b86fcd9c6afb3896580b",
+    "category": "FL",
+    "player": "27"
+  },
+  {
+    "_id": "6127b88ccd9c6afb3896580d",
+    "category": "FT",
+    "player": "46b"
+  },
+  {
+    "_id": "b",
+    "parent": "6127b88ccd9c6afb3896580d",
+    "category": "FT",
+    "player": "46b"
+  },
+  {
+    "_id": "6127b8b2cd9c6afb3896580f",
+    "category": "TO",
+    "player": "35"
+  },
+  {
+    "_id": "6127b8cfcd9c6afb38965811",
+    "category": "2PT",
+    "player": "7b"
+  },
+  {
+    "_id": "6127b8f1cd9c6afb38965813",
+    "category": "2PTM",
+    "player": "34"
+  },
+  {
+    "_id": "c",
+    "parent": "6127b8f1cd9c6afb38965813",
+    "category": "REB",
+    "player": "36b"
+  },
+  {
+    "_id": "6127b930cd9c6afb38965816",
+    "category": "3PT",
+    "player": "7b"
+  },
+  {
+    "_id": "d",
+    "parent": "6127b930cd9c6afb38965816",
+    "category": "AST",
+    "player": "36b"
+  },
+  {
+    "_id": "6127b94bcd9c6afb38965817",
+    "category": "STL",
+    "player": "12b"
+  },
+  {
+    "_id": "e",
+    "parent": "6127b94bcd9c6afb38965817",
+    "category": "TO",
+    "player": "30"
+  },
+  {
+    "_id": "6127b97dcd9c6afb38965818",
+    "category": "3PT",
+    "player": "7b"
+  },
+  {
+    "_id": "f",
+    "parent": "6127b97dcd9c6afb38965818",
+    "category": "AST",
+    "player": "12b"
+  },
+  {
+    "_id": "6127b99fcd9c6afb38965819",
+    "category": "TO",
+    "player": "1"
+  },
+  {
+    "_id": "g",
+    "parent": "6127b99fcd9c6afb38965819",
+    "category": "STL",
+    "player": "36b"
+  },
+  {
+    "_id": "6127b9c1cd9c6afb3896581a",
+    "category": "AST",
+    "player": "36b"
+  },
+  {
+    "_id": "h",
+    "parent": "6127b9c1cd9c6afb3896581a",
+    "category": "2PT",
+    "player": "42b"
+  },
+  {
+    "_id": "6127b9e5cd9c6afb3896581b",
+    "category": "3PTM",
+    "player": "30"
+  },
+  {
+    "_id": "i",
+    "parent": "6127b9e5cd9c6afb3896581b",
+    "category": "REB",
+    "player": "42b"
+  },
+  {
+    "_id": "6127ba02cd9c6afb3896581c",
+    "category": "FL",
+    "player": "6"
+  }
+]

@@ -17,28 +17,35 @@ console.log(
 const run = async () => {
   const { purpose } = await inquirer.askLoadExistingOrNew();
   console.log(purpose);
+  let gamePath;
   if (purpose === "Create") {
-    throw new Error("Sorry. Create is not supported at this moment");
-    // const game = await inquirer.askGameDetails();
-    // console.log(game);
+    const { gameName, gameDesc } = await inquirer.askGameDetails();
+    gamePath = await helper.createGameDirAndInfo(gameName, gameDesc);
   }
   if (purpose === "Load") {
     const { gameToLoad } = await inquirer.askGameToLoad(); // validates game files
-    const gamePath = gameToLoad.gameDirPath.trimEnd("/");
+    gamePath = gameToLoad.gameDirPath.trimEnd("/");
     console.log(gamePath);
-    await helper.setupGameFiles(gamePath);
   }
 
-  // Game files are ready
-  plays.loadGame(gamePath);
-  console.log("Game loaded in memory");
+  await helper.setupGameFiles(gamePath);
 
+  // Game files are ready
+  // plays.loadGame(gamePath); commented out because every run should be additive not absolute
+  // console.log("Game loaded in memory");
+
+  let input;
   do {
-    const input = await inquirer.askNextPlay();
-    if (!input.isExit) {
+    input = await inquirer.askNextPlay();
+    if (input.playType !== "exit") {
+      // if (["save", "undo", "addText"].includes(input.playType))
       // record input
+      plays.addPlay(gamePath, input.playType, input.playerNumber);
     }
-  } while (!input.isExit);
+  } while (input.playType !== "exit");
+
+  plays.printPlays(gamePath);
+  helper.commitPlays(gamePath, plays.getPlays(gamePath));
 };
 
 run();

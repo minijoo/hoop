@@ -1,5 +1,29 @@
 [
   {
+    "gameDirPath": "./games/chicago_vs_new_york"
+  },
+  {
+    "gameDirPath": "./games/celtcs_vs_nets"
+  },
+  {
+    "gameDirPath": "./games/china_vs_usa"
+  },
+  {
+    "gameDirPath": "./games/yin_vs_yang"
+  },
+  {
+    "gameDirPath": "./games/me_vs_you"
+  },
+  {
+    "gameDirPath": "./games/superman_vs_batman"
+  },
+  {
+    "gameDirPath": "./games/man_vs_chair"
+  },
+  {
+    "gameDirPath": "./games/Man vs Food"
+  },
+  {
     "gameDirPath": "./games/g1"
   },
   {
