@@ -38,9 +38,33 @@ const run = async () => {
   do {
     input = await inquirer.askNextPlay();
     if (input.playType !== "exit") {
-      // if (["save", "undo", "addText"].includes(input.playType))
-      // record input
-      plays.addPlay(gamePath, input.playType, input.playerNumber);
+      console.log(input.playType);
+      if (["save", "undo", "addText", "print"].includes(input.playType)) {
+        if (input.playType === "undo") {
+          if (input.isOkToUndo) {
+            plays.undoPlay(gamePath);
+          } else {
+            console.log(chalk.yellow.bgBlack`Undo cancelled`);
+          }
+        } else if (input.playType === "print") {
+          const currPlays = plays.getPlays(gamePath);
+          const num = parseInt(input.numberOfPlays);
+          if (currPlays.length <= num) {
+            console.log(currPlays); // display plays
+          } else {
+            console.log(currPlays.slice(num * -1));
+          }
+        } else if (input.playType === "save") {
+          helper.commitPlays(gamePath, plays.getPlays(gamePath));
+          // if above is successful
+          plays.clearPlays(gamePath);
+        } else {
+          console.log("not supported");
+        }
+      } else {
+        // record input
+        plays.addPlay(gamePath, input.playType, input.playerNumber);
+      }
     }
   } while (input.playType !== "exit");
 

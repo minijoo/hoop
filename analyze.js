@@ -29,6 +29,13 @@ const run = async () => {
     selectedAnalysis = (await inquirer.askAnalyzeWhat()).whatToDo;
     console.log(selectedAnalysis);
     if (selectedAnalysis !== "Nothing.") {
+      if (selectedAnalysis === "Cookie") {
+        console.log(
+          chalk.red.bgBlack`No cookie here or in the oven at this time`
+        );
+      } else {
+        clear();
+      }
       analyzer.renderAnalysis(selectedAnalysis, gamePath);
     }
   } while (selectedAnalysis !== "Nothing.");

@@ -1,0 +1,12 @@
+{
+  "id": "667bc4de-afee-4fe5-a1eb-d69ce4fab955",
+  "name": "PHILLY CHI GAME 5",
+  "description": "CONSOLE",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

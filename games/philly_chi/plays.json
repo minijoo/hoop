@@ -1,0 +1,1112 @@
+[
+  {
+    "pId": "bff961fa-f663-48f8-98df-7f6c1da95216",
+    "playType": "FL",
+    "playerId": "A-40",
+    "timestamp": 1630766562833
+  },
+  {
+    "pId": "8193423f-291b-406e-b826-07ad7cc1cab5",
+    "playType": "FT",
+    "playerId": "H-11",
+    "timestamp": 1630766570784
+  },
+  {
+    "pId": "391641df-d48e-4f7a-ab98-06a379624ade",
+    "playType": "FT",
+    "playerId": "H-11",
+    "timestamp": 1630766574540
+  },
+  {
+    "pId": "18b7c32c-e66f-4ad0-8fb3-139db7356baa",
+    "playType": "THPTMI",
+    "playerId": "A-1",
+    "timestamp": 1630766590640
+  },
+  {
+    "pId": "68acdaad-2331-4127-a66c-2ce6210d27c5",
+    "playType": "THPTMI",
+    "playerId": "A-40",
+    "timestamp": 1630766605658
+  },
+  {
+    "pId": "1db90cec-0e67-49d3-af76-4a6d6fee0f53",
+    "playType": "THPTS",
+    "playerId": "H-31",
+    "timestamp": 1630766617187
+  },
+  {
+    "pId": "1912457c-8dbd-4bad-a6ec-90c3f6d18fad",
+    "playType": "THPTMI",
+    "playerId": "A-40",
+    "timestamp": 1630766633019
+  },
+  {
+    "pId": "ef0745e0-b1f3-4fc7-92e1-86382af1b9d8",
+    "playType": "TO",
+    "playerId": "H-0",
+    "timestamp": 1630766657113
+  },
+  {
+    "pId": "d394c7da-0c8e-4307-8651-8e30e97d00f5",
+    "playType": "STL",
+    "playerId": "A-3",
+    "timestamp": 1630766663088
+  },
+  {
+    "pId": "b9cfaf85-0d4d-4b2e-a135-ad1f7b50ff94",
+    "playType": "TWPTS",
+    "playerId": "A-3",
+    "timestamp": 1630766666817
+  },
+  {
+    "pId": "5ea6d6c4-466f-4709-8c80-a183d5e438ff",
+    "playType": "TWPTMI",
+    "playerId": "H-0",
+    "timestamp": 1630766681652
+  },
+  {
+    "pId": "cac52351-e358-4efe-9ee3-b171a7ecb324",
+    "playType": "TWPTS",
+    "playerId": "A-3",
+    "timestamp": 1630766692304
+  },
+  {
+    "pId": "7629cfb6-67d9-4908-91e7-c419137650e0",
+    "playType": "THPTS",
+    "playerId": "H-31",
+    "timestamp": 1630766715887
+  },
+  {
+    "pId": "bc002962-0ea3-4165-b5f5-e35ec3123054",
+    "playType": "FL",
+    "playerId": "H-3",
+    "timestamp": 1630766735969
+  },
+  {
+    "pId": "c3e15e4f-c6aa-47eb-915f-71adb373a38d",
+    "playType": "FT",
+    "playerId": "A-3",
+    "timestamp": 1630766760486
+  },
+  {
+    "pId": "bb064a0f-70bc-4e41-b4f7-c3040f6023a8",
+    "playType": "FT",
+    "playerId": "A-3",
+    "timestamp": 1630766772035
+  },
+  {
+    "pId": "0cdcd008-63f8-4ac3-b6d2-aeb335200ff4",
+    "playType": "FL",
+    "playerId": "A-1",
+    "timestamp": 1630766793810
+  },
+  {
+    "pId": "0505de37-863f-4105-b495-02f48a8c6c27",
+    "playType": "TWPTS",
+    "playerId": "H-3",
+    "timestamp": 1630766799894
+  },
+  {
+    "pId": "2a9b5769-aa9b-4dc9-b94d-a00c13acfdb1",
+    "playType": "FT",
+    "playerId": "H-3",
+    "timestamp": 1630766815328
+  },
+  {
+    "pId": "11538e09-7f02-451f-9a6a-8518dd9bad6f",
+    "playType": "STL",
+    "playerId": "H-3",
+    "timestamp": 1630766863711
+  },
+  {
+    "pId": "3cb0e240-86a9-4f3a-bc5c-37f87f9247c0",
+    "playType": "TO",
+    "playerId": "A-6",
+    "timestamp": 1630766869507
+  },
+  {
+    "pId": "1f38d36a-30c7-4da9-91b3-242700730dff",
+    "playType": "THPTMI",
+    "playerId": "H-0",
+    "timestamp": 1630766881292
+  },
+  {
+    "pId": "b1c8549f-6129-411b-b258-02bfc97eac61",
+    "playType": "REB",
+    "playerId": "H-49",
+    "timestamp": 1630766888289
+  },
+  {
+    "pId": "ca30c20a-0476-42a4-897f-58728f60def5",
+    "playType": "TWPTS",
+    "playerId": "H-0",
+    "timestamp": 1630766895449
+  },
+  {
+    "pId": "209088d2-652e-4266-8c0a-8479b240d10b",
+    "playType": "THPTMI",
+    "playerId": "A-1",
+    "timestamp": 1630766904728
+  },
+  {
+    "pId": "7aee6bf6-d096-45e0-8f41-da87e3f726cb",
+    "playType": "REB",
+    "playerId": "H-TEAM",
+    "timestamp": 1630766919183
+  },
+  {
+    "pId": "d422b805-41bb-4153-9e11-f8b322eeeed4",
+    "playType": "STL",
+    "playerId": "A-6",
+    "timestamp": 1630766928661
+  },
+  {
+    "pId": "2f20ea2d-e7c8-4ae8-b546-f68294d996ef",
+    "playType": "TO",
+    "playerId": "H-11",
+    "timestamp": 1630766936350
+  },
+  {
+    "pId": "854b25c7-bcaa-430e-987b-dc237a973736",
+    "playType": "TO",
+    "playerId": "A-1",
+    "timestamp": 1630766943480
+  },
+  {
+    "pId": "5d12961e-1131-45f4-9d6a-275cb21c226f",
+    "playType": "FL",
+    "playerId": "A-1",
+    "timestamp": 1630766968685
+  },
+  {
+    "pId": "331ced9a-03da-433b-889a-d5572565435c",
+    "playType": "TWPTMI",
+    "playerId": "H-31",
+    "timestamp": 1630766974064
+  },
+  {
+    "pId": "d65f49e0-ca3b-42e7-91fc-fbaf692d373a",
+    "playType": "REB",
+    "playerId": "A-6",
+    "timestamp": 1630766981749
+  },
+  {
+    "pId": "1b58ca95-51b4-4b80-9617-f7a773bb1415",
+    "playType": "TWPTMI",
+    "playerId": "A-3",
+    "timestamp": 1630766991733
+  },
+  {
+    "pId": "e4e4cbf3-f7cf-41a0-9151-495c9400557d",
+    "playType": "REB",
+    "playerId": "H-TEAM",
+    "timestamp": 1630767007331
+  },
+  {
+    "pId": "09d3242f-de16-4f15-b8f0-4d6216bf4fec",
+    "playType": "THPTMI",
+    "playerId": "H-11",
+    "timestamp": 1630767017299
+  },
+  {
+    "pId": "f871dadb-41d4-4ccf-a759-927712669fa4",
+    "playType": "REB",
+    "playerId": "H-11",
+    "timestamp": 1630767024904
+  },
+  {
+    "pId": "62774a78-1c1a-4074-8d02-156d68b90753",
+    "playType": "TWPTS",
+    "playerId": "H-0",
+    "timestamp": 1630767034514
+  },
+  {
+    "pId": "e1c00307-a2e5-499f-b615-63155798ca4f",
+    "playType": "TWPTS",
+    "playerId": "A-41",
+    "timestamp": 1630767046113
+  },
+  {
+    "pId": "aad1f808-3489-4b64-9709-28aed6777bb2",
+    "playType": "FL",
+    "playerId": "H-0",
+    "timestamp": 1630767049990
+  },
+  {
+    "pId": "58d460cc-0e96-4bf8-a5f3-1f23fd2cba54",
+    "playType": "AST",
+    "playerId": "A-40",
+    "timestamp": 1630767057332
+  },
+  {
+    "pId": "29c25b27-4555-4788-a089-f6192da16f13",
+    "playType": "FT",
+    "playerId": "A-41",
+    "timestamp": 1630767068792
+  },
+  {
+    "pId": "fdaed064-2d7b-4edd-87b1-344980d1ef67",
+    "playType": "THPTMI",
+    "playerId": "H-0",
+    "timestamp": 1630767094346
+  },
+  {
+    "pId": "f3a8fe59-df4b-482e-9d81-c969dedfcee5",
+    "playType": "REB",
+    "playerId": "A-37",
+    "timestamp": 1630767102430
+  },
+  {
+    "pId": "8a49143c-3e92-4c81-924c-9abd7ea0054d",
+    "playType": "THPTS",
+    "playerId": "A-37",
+    "timestamp": 1630767110598
+  },
+  {
+    "pId": "08c11865-0764-4736-aa66-49f099865df9",
+    "playType": "REB",
+    "playerId": "A-41",
+    "timestamp": 1630767126918
+  },
+  {
+    "pId": "d233289b-e9ce-4b46-b035-31b840be5189",
+    "playType": "THPTMI",
+    "playerId": "H-31",
+    "timestamp": 1630767135990
+  },
+  {
+    "pId": "5c51ba6c-a8eb-434e-888f-5425523fc61c",
+    "playType": "REB",
+    "playerId": "H-6",
+    "timestamp": 1630767140664
+  },
+  {
+    "pId": "1120d0c0-730c-4418-9ac0-58de195e5d64",
+    "playType": "THPTMI",
+    "playerId": "A-15",
+    "timestamp": 1630767146855
+  },
+  {
+    "pId": "bc4ddd14-dc9a-406b-a4cb-9a491ebaa98f",
+    "playType": "THPTS",
+    "playerId": "H-9",
+    "timestamp": 1630767157913
+  },
+  {
+    "pId": "89831032-cd58-4e56-8e39-a75f76a92b04",
+    "playType": "THPTMI",
+    "playerId": "A-40",
+    "timestamp": 1630767167703
+  },
+  {
+    "pId": "619c3e36-8396-479f-9916-d574df09899e",
+    "playType": "REB",
+    "playerId": "A-41",
+    "timestamp": 1630767172228
+  },
+  {
+    "pId": "c4ce29a3-c4ed-443e-92e1-3c56a76ca42f",
+    "playType": "TWPTMI",
+    "playerId": "A-41",
+    "timestamp": 1630767176451
+  },
+  {
+    "pId": "231c43a8-e3bd-43f7-8273-2496699f2f85",
+    "playType": "TO",
+    "playerId": "H-0",
+    "timestamp": 1630767186789
+  },
+  {
+    "pId": "5d7bd607-bfe8-4557-a290-c795a9e03e95",
+    "playType": "THPTS",
+    "playerId": "A-37",
+    "timestamp": 1630767195179
+  },
+  {
+    "pId": "779180e3-49fc-4f0c-b0ee-ad335bfd2461",
+    "playType": "AST",
+    "playerId": "A-40",
+    "timestamp": 1630767200768
+  },
+  {
+    "pId": "a4fffa4b-77a3-4fc6-9a6f-ca9f19a9eae1",
+    "playType": "STL",
+    "playerId": "A-40",
+    "timestamp": 1630767207699
+  },
+  {
+    "pId": "5e1a9d75-a901-4e76-b917-c938ab4349d0",
+    "playType": "TWPTMI",
+    "playerId": "h-31",
+    "timestamp": 1630767278845
+  },
+  {
+    "pId": "75dffd6d-a5f2-4639-95de-8d06906f9bd1",
+    "playType": "REB",
+    "playerId": "h-4",
+    "timestamp": 1630767286608
+  },
+  {
+    "pId": "f4a033eb-35a2-4149-a4c6-e72443eeee67",
+    "playType": "REB",
+    "playerId": "A-37",
+    "timestamp": 1630767291665
+  },
+  {
+    "pId": "486a5f94-7cf8-404a-b9dd-1a70c61c9f5d",
+    "playType": "TO",
+    "playerId": "H-0",
+    "timestamp": 1630767302727
+  },
+  {
+    "pId": "2904f26f-745d-4c91-b5fd-46615595d72e",
+    "playType": "STL",
+    "playerId": "A-40",
+    "timestamp": 1630767308044
+  },
+  {
+    "pId": "043e75a3-0ba0-49bc-a74f-92156d6eafab",
+    "playType": "THPTMI",
+    "playerId": "A-40",
+    "timestamp": 1630767312452
+  },
+  {
+    "pId": "b5ab606a-9518-4ebe-a1f7-ad7f2c75e604",
+    "playType": "FL",
+    "playerId": "A-40",
+    "timestamp": 1630767331194
+  },
+  {
+    "pId": "c7c21fd5-4dec-428a-97bf-3b0686b57385",
+    "playType": "STL",
+    "playerId": "A-33",
+    "timestamp": 1630767351907
+  },
+  {
+    "pId": "470f3a48-860f-48b7-8579-ddd634dd7b67",
+    "playType": "TO",
+    "playerId": "A-33",
+    "timestamp": 1630767361645
+  },
+  {
+    "pId": "be038b07-7b43-4bc9-bbc9-a6f7169fb8a3",
+    "playType": "TWPTMI",
+    "playerId": "H-4",
+    "timestamp": 1630767372415
+  },
+  {
+    "pId": "16a46466-2eb6-406e-ab78-b4f4fe330419",
+    "playType": "REB",
+    "playerId": "A-6",
+    "timestamp": 1630767377186
+  },
+  {
+    "pId": "68ba2da8-fae7-4b14-9efd-90b033208123",
+    "playType": "TWPTS",
+    "playerId": "A-1",
+    "timestamp": 1630767381961
+  },
+  {
+    "pId": "b36d4689-e5b0-453f-9dbd-3f435af852f2",
+    "playType": "AST",
+    "playerId": "A-33",
+    "timestamp": 1630767395822
+  },
+  {
+    "pId": "f632c854-24ba-4817-94a8-a4d720e7dcdf",
+    "playType": "THPTMI",
+    "playerId": "H-0",
+    "timestamp": 1630767403714
+  },
+  {
+    "pId": "3b241de5-0d6d-466a-8824-433928e8dc03",
+    "playType": "REB",
+    "playerId": "H-7",
+    "timestamp": 1630767411419
+  },
+  {
+    "pId": "c68c8f1d-1270-40b4-9a8f-c2fff3696ad8",
+    "playType": "TWPTS",
+    "playerId": "H-31",
+    "timestamp": 1630767438302
+  },
+  {
+    "pId": "cc48b31a-f508-46b9-944b-945aa9ce8ac6",
+    "playType": "THPTS",
+    "playerId": "A-33",
+    "timestamp": 1630767447271
+  },
+  {
+    "pId": "6dc74b31-ecb7-4278-b39e-96f944255b1a",
+    "playType": "FL",
+    "playerId": "A-33",
+    "timestamp": 1630767471695
+  },
+  {
+    "pId": "facd1ba4-f874-4945-b634-09b17ce24aa4",
+    "playType": "THPTMI",
+    "playerId": "H-0",
+    "timestamp": 1630767500083
+  },
+  {
+    "pId": "db23984e-ac1f-4507-b9ad-0766b0166e38",
+    "playType": "REB",
+    "playerId": "A-3",
+    "timestamp": 1630767505545
+  },
+  {
+    "pId": "7a8622af-4be3-4c6f-9b44-b04ab757ba38",
+    "playType": "TWPTMI",
+    "playerId": "A-6",
+    "timestamp": 1630767509519
+  },
+  {
+    "pId": "84085a7d-08a3-455d-a34b-e022cbf271b3",
+    "playType": "TO",
+    "playerId": "H-49",
+    "timestamp": 1630767554739
+  },
+  {
+    "pId": "96e2e7f7-0bdb-449a-8b05-c212d57f0048",
+    "playType": "TWPTS",
+    "playerId": "A-6",
+    "timestamp": 1630767583055
+  },
+  {
+    "pId": "49f99b81-0f75-420b-a187-2fb9081cd8d4",
+    "playType": "AST",
+    "playerId": "A-3",
+    "timestamp": 1630767587134
+  },
+  {
+    "pId": "4b28bb78-761f-421b-9c20-50666b0cc75b",
+    "playType": "FL",
+    "playerId": "H-3",
+    "timestamp": 1630767604081
+  },
+  {
+    "pId": "36a4186e-a103-4d29-9f2d-a1466cb32d53",
+    "playType": "STL",
+    "playerId": "A-3",
+    "timestamp": 1630767615701
+  },
+  {
+    "pId": "bb08254c-8198-40a9-a3f9-b7bdea911af3",
+    "playType": "FL",
+    "playerId": "H-3",
+    "timestamp": 1630767638741
+  },
+  {
+    "pId": "68dca483-7f5c-4701-a570-e65d4bf4dc67",
+    "playType": "TWPTMI",
+    "playerId": "A-6",
+    "timestamp": 1630767667852
+  },
+  {
+    "pId": "2724b046-bcc9-40f7-899a-0796af8afe3b",
+    "playType": "REB",
+    "playerId": "H-11",
+    "timestamp": 1630767670661
+  },
+  {
+    "pId": "fff028ca-3239-4f7a-ba27-e50b396976b6",
+    "playType": "THPTS",
+    "playerId": "H-11",
+    "timestamp": 1630767694900
+  },
+  {
+    "pId": "2789d27a-04a4-4316-aa81-283291c44908",
+    "playType": "FL",
+    "playerId": "H-49",
+    "timestamp": 1630767710923
+  },
+  {
+    "pId": "2c268de3-69b7-4eeb-9849-88eb7c12a91e",
+    "playType": "TWPTMI",
+    "playerId": "A-41",
+    "timestamp": 1630767746396
+  },
+  {
+    "pId": "3b89fadf-48b7-4906-a833-19aa699012a0",
+    "playType": "REB",
+    "playerId": "A-1",
+    "timestamp": 1630767751911
+  },
+  {
+    "pId": "2635841a-1095-4349-91b6-b8ba2bc66963",
+    "playType": "FL",
+    "playerId": "H-11",
+    "timestamp": 1630767779932
+  },
+  {
+    "pId": "ca5f078a-bc7a-4ee9-8975-4447bd8f4396",
+    "playType": "FT",
+    "playerId": "A-3",
+    "timestamp": 1630767790943
+  },
+  {
+    "pId": "5da8abf2-a239-40b3-8aab-da4f8f2862aa",
+    "playType": "FT",
+    "playerId": "A-3",
+    "timestamp": 1630767801781
+  },
+  {
+    "pId": "55063cda-da09-4d5a-ae98-63669e0bcdc0",
+    "playType": "FL",
+    "playerId": "H-49",
+    "timestamp": 1630768027178
+  },
+  {
+    "pId": "07c23349-601a-4068-9aa2-f6e601364e53",
+    "playType": "FL",
+    "playerId": "H-11",
+    "timestamp": 1630768047499
+  },
+  {
+    "pId": "c1b6b2d1-b9e3-488a-a96a-b85ea15bad97",
+    "playType": "STL",
+    "playerId": "H-15",
+    "timestamp": 1630768066536
+  },
+  {
+    "pId": "690444e4-f95f-4e6d-8253-680b949e7ed0",
+    "playType": "TO",
+    "playerId": "A-3",
+    "timestamp": 1630768068937
+  },
+  {
+    "pId": "7832db53-bcad-431f-8a4f-1d5ec53b4f45",
+    "playType": "THPTMI",
+    "playerId": "H-11",
+    "timestamp": 1630768090195
+  },
+  {
+    "pId": "08d1b98b-e4ae-428a-8e62-d5eb862e70c4",
+    "playType": "THPTS",
+    "playerId": "A-40",
+    "timestamp": 1630768113129
+  },
+  {
+    "pId": "69461abc-9ee8-4b43-a229-59b4189836ad",
+    "playType": "AST",
+    "playerId": "A-1",
+    "timestamp": 1630768118790
+  },
+  {
+    "pId": "3440f5c5-4749-499e-b169-8087f216b737",
+    "playType": "FL",
+    "playerId": "A-6",
+    "timestamp": 1630768136436
+  },
+  {
+    "pId": "4575b1f7-f39d-49f9-83ed-1955c8b64cfc",
+    "playType": "TWPTMI",
+    "playerId": "H-15",
+    "timestamp": 1630768156259
+  },
+  {
+    "pId": "0deab681-e34a-4c99-85e1-846e585167cd",
+    "playType": "REB",
+    "playerId": "H-15",
+    "timestamp": 1630768162494
+  },
+  {
+    "pId": "0324f639-9aa0-4fd0-a539-164034dfc019",
+    "playType": "TO",
+    "playerId": "H-15",
+    "timestamp": 1630768166016
+  },
+  {
+    "pId": "e87dea37-538a-4e78-96c1-54fa4acbf64e",
+    "playType": "STL",
+    "playerId": "A-1",
+    "timestamp": 1630768171017
+  },
+  {
+    "pId": "1da56cbe-15c0-4a88-b24b-1804fc17e3b2",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630768186715
+  },
+  {
+    "pId": "9cde0ef5-17f9-4c80-8cba-807ba8b62df9",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630768208387
+  },
+  {
+    "pId": "11ee4442-bdf9-42c7-b260-1d16eb4fb242",
+    "playType": "FL",
+    "playerId": "A-41",
+    "timestamp": 1630768240840
+  },
+  {
+    "pId": "63ac35d6-b968-4cc7-a280-356c91138be7",
+    "playType": "STL",
+    "playerId": "A-6",
+    "timestamp": 1630768259967
+  },
+  {
+    "pId": "b5db70a2-e773-45fe-908a-b8999b60a377",
+    "playType": "AST",
+    "playerId": "A-1",
+    "timestamp": 1630768281617
+  },
+  {
+    "pId": "8af3ce1b-1581-4506-8943-334a26226a86",
+    "playType": "THPTS",
+    "playerId": "A-40",
+    "timestamp": 1630768283993
+  },
+  {
+    "pId": "6661bda4-38ad-4c1c-92cd-073c2ce52450",
+    "playType": "THPTS",
+    "playerId": "H-3",
+    "timestamp": 1630768323801
+  },
+  {
+    "pId": "8a516fa0-254e-4876-9aff-e8b1e6ee02f2",
+    "playType": "AST",
+    "playerId": "H-11",
+    "timestamp": 1630768331513
+  },
+  {
+    "pId": "18274323-3b1e-4ffe-bf52-911058dcdd41",
+    "playType": "TWPTMI",
+    "playerId": "A-6",
+    "timestamp": 1630768345876
+  },
+  {
+    "pId": "1b689531-fbb1-4f40-aa30-0b748468d032",
+    "playType": "REB",
+    "playerId": "A-6",
+    "timestamp": 1630768349213
+  },
+  {
+    "pId": "811d153e-eaab-4349-a946-e09c314d6d1c",
+    "playType": "TWPTS",
+    "playerId": "A-6",
+    "timestamp": 1630768350905
+  },
+  {
+    "pId": "bb321045-e546-4446-9528-e2a97ec1ddd5",
+    "playType": "FL",
+    "playerId": "H-3",
+    "timestamp": 1630768367458
+  },
+  {
+    "pId": "7fa37e2f-9647-4500-b591-a743b27463f9",
+    "playType": "FT",
+    "playerId": "A-6",
+    "timestamp": 1630768370669
+  },
+  {
+    "pId": "57e394e0-e85f-412b-96ba-e88cf9edd603",
+    "playType": "THPTS",
+    "playerId": "H-3",
+    "timestamp": 1630768397721
+  },
+  {
+    "pId": "04a02001-b49c-4aaf-a62b-66b6ae287730",
+    "playType": "THPTMI",
+    "playerId": "A-1",
+    "timestamp": 1630768416558
+  },
+  {
+    "pId": "fc73fc2d-c041-481c-90eb-a5afc13e62e8",
+    "playType": "THPTMI",
+    "playerId": "H-6",
+    "timestamp": 1630768450504
+  },
+  {
+    "pId": "70bdb8ac-d425-4314-a511-7604bd3226e5",
+    "playType": "REB",
+    "playerId": "H-3",
+    "timestamp": 1630768456048
+  },
+  {
+    "pId": "4022b525-6fd8-46d6-a5e0-3c8d745c1bc1",
+    "playType": "TIMEOUT",
+    "playerId": "H-TEAM",
+    "timestamp": 1630768469424
+  },
+  {
+    "pId": "9a363543-6f2b-462c-a889-3b9a1ded6aae",
+    "playType": "TWPTMI",
+    "playerId": "H-4",
+    "timestamp": 1630768539281
+  },
+  {
+    "pId": "30380652-6a7c-4b3d-9faf-1c4c5311c933",
+    "playType": "TWPTS",
+    "playerId": "H-1",
+    "timestamp": 1630768545746
+  },
+  {
+    "pId": "e9e813ae-4562-4a54-80af-cec05ee7c0db",
+    "playType": "REB",
+    "playerId": "H-1",
+    "timestamp": 1630768550806
+  },
+  {
+    "pId": "2962ca8b-4534-4e29-90d9-14219b004e01",
+    "playType": "TWPTS",
+    "playerId": "A-33",
+    "timestamp": 1630768559381
+  },
+  {
+    "pId": "78630cba-6480-42c4-8559-d48167e1f3be",
+    "playType": "FL",
+    "playerId": "H-7",
+    "timestamp": 1630768562787
+  },
+  {
+    "pId": "f8be53eb-7bb2-4b87-97b6-17ffdcf0c9b6",
+    "playType": "FTMI",
+    "playerId": "A-33",
+    "timestamp": 1630768576948
+  },
+  {
+    "pId": "4e599bb2-165a-49f4-8532-08aea88fd829",
+    "playType": "TO",
+    "playerId": "H-6",
+    "timestamp": 1630768593446
+  },
+  {
+    "pId": "bd7edc45-d5e2-45dd-a6d2-16b1bd9b1afb",
+    "playType": "TWPTS",
+    "playerId": "A-37",
+    "timestamp": 1630768621359
+  },
+  {
+    "pId": "77c72494-cc16-4810-bd1e-e84640056ef7",
+    "playType": "STL",
+    "playerId": "A-33",
+    "timestamp": 1630768645919
+  },
+  {
+    "pId": "3c9bbdf4-508e-4471-9d4b-a4f0f1b92e4b",
+    "playType": "AST",
+    "playerId": "A-2",
+    "timestamp": 1630768655455
+  },
+  {
+    "pId": "7fce8a6a-b851-41c8-a5b3-9c5f35fa220e",
+    "playType": "TWPTS",
+    "playerId": "A-15",
+    "timestamp": 1630768662935
+  },
+  {
+    "pId": "8cbd3470-171a-4629-92bd-8a9263b5fc12",
+    "playType": "FL",
+    "playerId": "A-33",
+    "timestamp": 1630768671973
+  },
+  {
+    "pId": "63a9f45e-4cd5-44c6-8176-86a5f9c1b771",
+    "playType": "STL",
+    "playerId": "A-37",
+    "timestamp": 1630768691379
+  },
+  {
+    "pId": "cb523c2a-ba61-4f54-b372-254612b4539f",
+    "playType": "TO",
+    "playerId": "H-31",
+    "timestamp": 1630768695021
+  },
+  {
+    "pId": "cfcce425-047c-48bf-9d86-9ee113693274",
+    "playType": "THPTMI",
+    "playerId": "A-37",
+    "timestamp": 1630768705201
+  },
+  {
+    "pId": "92e42103-67cf-4839-adea-a97ade0d7818",
+    "playType": "FL",
+    "playerId": "A-4",
+    "timestamp": 1630768745245
+  },
+  {
+    "pId": "62c10c85-86dd-43e8-91ec-3a72db790876",
+    "playType": "FT",
+    "playerId": "A-41",
+    "timestamp": 1630768754938
+  },
+  {
+    "pId": "4bee03e7-bb32-46c8-9510-82130d8fc826",
+    "playType": "FT",
+    "playerId": "A-41",
+    "timestamp": 1630768766348
+  },
+  {
+    "pId": "c87139ff-0e90-48b9-9c51-093b178346cf",
+    "playType": "TO",
+    "playerId": "H-31",
+    "timestamp": 1630768782519
+  },
+  {
+    "pId": "9e9ee8bf-ac30-4ea9-93e3-e7559efce723",
+    "playType": "STL",
+    "playerId": "A-41",
+    "timestamp": 1630768785331
+  },
+  {
+    "pId": "fdf4af68-01b9-434e-9e33-eb06ff8800ee",
+    "playType": "AST",
+    "playerId": "A-2",
+    "timestamp": 1630768792190
+  },
+  {
+    "pId": "a19e19fa-c83a-42c3-9357-616bf5e567f1",
+    "playType": "TWPTS",
+    "playerId": "A-41",
+    "timestamp": 1630768799621
+  },
+  {
+    "pId": "cea3968d-9297-46ed-bccd-3c45eb4b6df5",
+    "playType": "TIMEOUT",
+    "playerId": "H-TEAM",
+    "timestamp": 1630768858602
+  },
+  {
+    "pId": "89940d5a-d136-422f-b1bb-a6fe550be3e3",
+    "playType": "FL",
+    "playerId": "A-24",
+    "timestamp": 1630768884111
+  },
+  {
+    "pId": "9d79f35e-b448-4e54-ad1e-e88d9a4f0be8",
+    "playType": "TWPTS",
+    "playerId": "H-1",
+    "timestamp": 1630768919882
+  },
+  {
+    "pId": "aa01ed14-c147-494a-9bae-bd3dc4c58dff",
+    "playType": "TIMEOUT",
+    "playerId": "A-TEAM",
+    "timestamp": 1630768990520
+  },
+  {
+    "pId": "31e12aac-0c0a-4692-9c96-04f3ff08a794",
+    "playType": "FL",
+    "playerId": "A-49",
+    "timestamp": 1630769008472
+  },
+  {
+    "pId": "d89fe708-3359-440c-828d-cfceea21578f",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630769021368
+  },
+  {
+    "pId": "80294abf-8fd6-4002-b527-b277178fe085",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630769031824
+  },
+  {
+    "pId": "949db7e5-82ad-4fb0-8fa4-419ae49c48fe",
+    "playType": "TO",
+    "playerId": "H-31",
+    "timestamp": 1630769052533
+  },
+  {
+    "pId": "b6ac6b4f-65aa-444e-bee6-a442863b0aae",
+    "playType": "STL",
+    "playerId": "A-40",
+    "timestamp": 1630769057947
+  },
+  {
+    "pId": "8aaf6671-862b-49ba-98a8-6947663ef01f",
+    "playType": "THPTMI",
+    "playerId": "A-40",
+    "timestamp": 1630769066798
+  },
+  {
+    "pId": "4b8c4d08-784c-4692-8630-e37ab91b30bf",
+    "playType": "TO",
+    "playerId": "H-31",
+    "timestamp": 1630769072687
+  },
+  {
+    "pId": "bb9cef57-de1b-48b7-849d-8f58aa6d621d",
+    "playType": "STL",
+    "playerId": "A-40",
+    "timestamp": 1630769077771
+  },
+  {
+    "pId": "818841a6-fbd1-4bc4-829a-410662d748c1",
+    "playType": "TO",
+    "playerId": "A-40",
+    "timestamp": 1630769082623
+  },
+  {
+    "pId": "ae905bf9-435c-4dcf-8789-5454cd7c7f49",
+    "playType": "THPTS",
+    "playerId": "H-11",
+    "timestamp": 1630769086143
+  },
+  {
+    "pId": "52e5f9c9-06c5-4064-bc01-037e84b0ffce",
+    "playType": "STL",
+    "playerId": "H-2",
+    "timestamp": 1630769094728
+  },
+  {
+    "pId": "2c345229-1559-4c8b-9e3d-649a4438f1b6",
+    "playType": "AST",
+    "playerId": "H-11",
+    "timestamp": 1630769133312
+  },
+  {
+    "pId": "1d542e78-ccaf-49a3-9b88-1e84503b922c",
+    "playType": "TWPTS",
+    "playerId": "H-31",
+    "timestamp": 1630769135389
+  },
+  {
+    "pId": "d24545d1-bbc4-4be2-a211-895112ea503a",
+    "playType": "FL",
+    "playerId": "H-49",
+    "timestamp": 1630769154940
+  },
+  {
+    "pId": "a7c509bf-c2f9-4dff-a76f-cef22d32085b",
+    "playType": "FTMI",
+    "playerId": "A-6",
+    "timestamp": 1630769186380
+  },
+  {
+    "pId": "16a6770a-6c74-40c9-8067-65b037fb03b4",
+    "playType": "AST",
+    "playerId": "H-11",
+    "timestamp": 1630769203850
+  },
+  {
+    "pId": "c149c103-91c3-411a-b89e-3e4c38ed67fe",
+    "playType": "THPTS",
+    "playerId": "H-0",
+    "timestamp": 1630769206887
+  },
+  {
+    "pId": "53986460-e3d2-4d1a-bb9d-eaa9bc71cdd9",
+    "playType": "TO",
+    "playerId": "H-1",
+    "timestamp": 1630769221379
+  },
+  {
+    "pId": "4d9339d9-ffe6-47e6-9ae6-34d6472ce4cc",
+    "playType": "TWPTS",
+    "playerId": "A-1",
+    "timestamp": 1630769257523
+  },
+  {
+    "pId": "b6d27df8-b68b-40cf-85b1-4fe9e1f563bd",
+    "playType": "THPTMI",
+    "playerId": "H-31",
+    "timestamp": 1630769273938
+  },
+  {
+    "pId": "140bb29f-8694-40d4-9984-53ee948d8c8f",
+    "playType": "FL",
+    "playerId": "H-11",
+    "timestamp": 1630769291919
+  },
+  {
+    "pId": "bf09189a-5a22-4753-bc88-f11f8c0d66af",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630769313234
+  },
+  {
+    "pId": "88f1f765-a72a-439f-b759-0d75d43023d3",
+    "playType": "FT",
+    "playerId": "A-1",
+    "timestamp": 1630769322818
+  },
+  {
+    "pId": "fc636ffb-e4ef-41e7-b682-d1996ecbfc74",
+    "playType": "TWPTMI",
+    "playerId": "H-11",
+    "timestamp": 1630769348827
+  },
+  {
+    "pId": "03d21a06-9f32-489a-9c6e-1e66e1f999d1",
+    "playType": "THPTMI",
+    "playerId": "A-6",
+    "timestamp": 1630769371998
+  },
+  {
+    "pId": "b8c99c84-4a0d-475c-b3bc-0665a8c4fd75",
+    "playType": "THPTMI",
+    "playerId": "A-37",
+    "timestamp": 1630769374550
+  },
+  {
+    "pId": "863a6d2f-e73a-4d07-a27b-326f5f72badd",
+    "playType": "FL",
+    "playerId": "H-6",
+    "timestamp": 1630769394924
+  },
+  {
+    "pId": "44224a31-6810-4c75-9a2e-d3245a040193",
+    "playType": "FL",
+    "playerId": "A-8",
+    "timestamp": 1630769404416
+  },
+  {
+    "pId": "b290f46d-727c-4d3c-a473-906db7cc0162",
+    "playType": "FL",
+    "playerId": "H-31",
+    "timestamp": 1630769409029
+  },
+  {
+    "pId": "ae9a163f-800c-491c-a367-2899e032d740",
+    "playType": "FTMI",
+    "playerId": "A-3",
+    "timestamp": 1630769419458
+  },
+  {
+    "pId": "26927c5c-4a68-4e14-a3e7-ed44449d2415",
+    "playType": "FT",
+    "playerId": "A-3",
+    "timestamp": 1630769428271
+  },
+  {
+    "pId": "543cabf7-75cb-406d-b076-99df3f600075",
+    "playType": "FL",
+    "playerId": "A-6",
+    "timestamp": 1630769468598
+  },
+  {
+    "pId": "d2be1d0c-3ab7-44fb-90cd-b0d303de0b03",
+    "playType": "FT",
+    "playerId": "H-0",
+    "timestamp": 1630769486621
+  },
+  {
+    "pId": "3ae40ccb-2ee1-423b-b22a-6597afe21085",
+    "playType": "FTMI",
+    "playerId": "H-0",
+    "timestamp": 1630769499166
+  },
+  {
+    "pId": "455f2096-7481-4268-8a93-a88ec5f5286a",
+    "playType": "REB",
+    "playerId": "A-6",
+    "timestamp": 1630769503562
+  },
+  {
+    "pId": "b531a9ab-feb3-4d66-98ee-8c7039ced180",
+    "playType": "TWPTS",
+    "playerId": "A-6",
+    "timestamp": 1630769516754
+  },
+  {
+    "pId": "61f51848-745e-4050-8213-97515811a991",
+    "playType": "AST",
+    "playerId": "A-40",
+    "timestamp": 1630769572657
+  }
+]

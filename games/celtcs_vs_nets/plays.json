@@ -232,5 +232,17 @@
     "playType": "TWPTS",
     "playerId": "0",
     "timestamp": 1630443147787
+  },
+  {
+    "pId": "b276617d-3728-41ca-a503-28a52a0dd1d5",
+    "playType": "FT",
+    "playerId": "6",
+    "timestamp": 1630724102470
+  },
+  {
+    "pId": "ed91ced6-cdfd-4190-9778-261e08980cb0",
+    "playType": "TWPTS",
+    "playerId": "6",
+    "timestamp": 1630724111325
   }
 ]

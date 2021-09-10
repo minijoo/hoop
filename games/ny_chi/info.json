@@ -1,0 +1,12 @@
+{
+  "id": "7ddf732a-ccd3-41ef-a621-a757af06b410",
+  "name": "NY CHI",
+  "description": "GAME 3",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

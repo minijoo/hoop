@@ -1,0 +1,12 @@
+{
+  "id": "8a2ae470-2bac-4649-b6df-7a8365dcf105",
+  "name": "Philly Chi",
+  "description": "game 1",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

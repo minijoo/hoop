@@ -1,0 +1,12 @@
+{
+  "id": "44d1be05-5a47-4539-b934-d257989967fa",
+  "name": "H v A",
+  "description": "hva",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

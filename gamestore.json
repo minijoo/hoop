@@ -1,5 +1,26 @@
 [
   {
+    "gameDirPath": "./games/philly_chi_game_5"
+  },
+  {
+    "gameDirPath": "./games/sf_chi_game_4"
+  },
+  {
+    "gameDirPath": "./games/ny_chi"
+  },
+  {
+    "gameDirPath": "./games/chi_vs_sf"
+  },
+  {
+    "gameDirPath": "./games/philly_chi"
+  },
+  {
+    "gameDirPath": "./games/h_v_a"
+  },
+  {
+    "gameDirPath": "./games/me_v_you"
+  },
+  {
     "gameDirPath": "./games/chicago_vs_new_york"
   },
   {

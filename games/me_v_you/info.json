@@ -1,0 +1,12 @@
+{
+  "id": "c80954f9-7448-46d3-9d22-6f7eebf5ed58",
+  "name": "Me v You",
+  "description": "test",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "0b78f41e-bf31-4468-9b11-853fe9cd0021",
+  "name": "SF CHI GAME 4",
+  "description": "SEMI FINALS",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}
