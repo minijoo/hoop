@@ -3,6 +3,7 @@
 import _ from "lodash";
 import chalk from "chalk";
 import clear from "clear";
+import fs from "fs";
 import figlet from "figlet";
 import inquirer from "./lib/inquirer.js";
 import analyzer from "./lib/analyzer.js";
@@ -26,7 +27,8 @@ const run = async () => {
 
   let selectedAnalysis;
   do {
-    selectedAnalysis = (await inquirer.askAnalyzeWhat()).whatToDo;
+    let input = await inquirer.askAnalyzeWhat();
+    selectedAnalysis = input.whatToDo;
     console.log(selectedAnalysis);
     if (selectedAnalysis !== "Nothing.") {
       if (selectedAnalysis === "Cookie") {
@@ -35,8 +37,22 @@ const run = async () => {
         );
       } else {
         clear();
+        const playsInFile = fs.readFileSync(gamePath + "/plays.json");
+        const gameInfoFile = fs.readFileSync(gamePath + "/info.json");
+        const playsParsed = playsInFile.length ? JSON.parse(playsInFile) : [];
+        const gameInfoParsed = gameInfoFile.length
+          ? JSON.parse(gameInfoFile)
+          : {};
+        if (input.outputType === "CSV") {
+          analyzer.csv(selectedAnalysis, playsParsed, gameInfoParsed);
+        } else {
+          analyzer.renderAnalysis(
+            selectedAnalysis,
+            playsParsed,
+            gameInfoParsed
+          );
+        }
       }
-      analyzer.renderAnalysis(selectedAnalysis, gamePath);
     }
   } while (selectedAnalysis !== "Nothing.");
 
