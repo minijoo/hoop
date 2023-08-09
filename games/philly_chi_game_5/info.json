@@ -1,12 +1,73 @@
 {
   "id": "667bc4de-afee-4fe5-a1eb-d69ce4fab955",
   "name": "PHILLY CHI GAME 5",
-  "description": "CONSOLE",
+  "description": "CONSOLATION Game",
   "home": {
-    "name": "home"
+    "name": "Chicago"
   },
   "away": {
-    "name": "away"
+    "name": "New York"
   },
-  "players": []
+  "players": [
+    {
+      "id": "1",
+      "name": "Martin",
+      "side": "home"
+    },
+    {
+      "id": "3",
+      "name": "Jon",
+      "side": "home"
+    },
+    {
+      "id": "2",
+      "name": "DJ",
+      "side": "home"
+    },
+    {
+      "id": "5",
+      "name": "??",
+      "side": "home"
+    },
+    {
+      "id": "6",
+      "name": "Chris",
+      "side": "home"
+    },
+    {
+      "id": "8",
+      "name": "Caleb",
+      "side": "home"
+    },
+    {
+      "id": "15",
+      "name": "Magic",
+      "side": "home"
+    },
+    {
+      "id": "24",
+      "name": "Q",
+      "side": "home"
+    },
+    {
+      "id": "33",
+      "name": "Henry",
+      "side": "home"
+    },
+    {
+      "id": "37",
+      "name": "Rev",
+      "side": "home"
+    },
+    {
+      "id": "40",
+      "name": "Calvin",
+      "side": "home"
+    },
+    {
+      "id": "41",
+      "name": "Joo",
+      "side": "home"
+    }
+  ]
 }

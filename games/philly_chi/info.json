@@ -3,10 +3,71 @@
   "name": "Philly Chi",
   "description": "game 1",
   "home": {
-    "name": "home"
+    "name": "San Francisco"
   },
   "away": {
-    "name": "away"
+    "name": "Chicago"
   },
-  "players": []
+  "players": [
+    {
+      "id": "1",
+      "name": "Martin",
+      "side": "away"
+    },
+    {
+      "id": "3",
+      "name": "Jon",
+      "side": "away"
+    },
+    {
+      "id": "2",
+      "name": "DJ",
+      "side": "away"
+    },
+    {
+      "id": "5",
+      "name": "??",
+      "side": "away"
+    },
+    {
+      "id": "6",
+      "name": "Chris",
+      "side": "away"
+    },
+    {
+      "id": "8",
+      "name": "Caleb",
+      "side": "away"
+    },
+    {
+      "id": "15",
+      "name": "Magic",
+      "side": "away"
+    },
+    {
+      "id": "24",
+      "name": "Q",
+      "side": "away"
+    },
+    {
+      "id": "33",
+      "name": "Henry",
+      "side": "away"
+    },
+    {
+      "id": "37",
+      "name": "Rev",
+      "side": "away"
+    },
+    {
+      "id": "40",
+      "name": "Calvin",
+      "side": "away"
+    },
+    {
+      "id": "41",
+      "name": "Joo",
+      "side": "away"
+    }
+  ]
 }

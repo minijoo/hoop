@@ -1,0 +1,72 @@
+{
+  "id": "f9ded015-d6d7-4ca1-90fc-11d35a1a4367",
+  "name": "9.25 team 2 vs team 3",
+  "description": "Abishek game winner",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "Ted",
+        "shorthand": "T"
+      },
+      {
+        "player": "Jordan",
+        "shorthand": "JK"
+      },
+      {
+        "player": "Hyunseo",
+        "shorthand": "HY"
+      },
+      {
+        "player": "Paul",
+        "shorthand": "PC"
+      },
+      {
+        "player": "Sam N",
+        "shorthand": "SN"
+      },
+      {
+        "player": "Ram",
+        "shorthand": "R"
+      },
+      {
+        "player": "Changhee",
+        "shorthand": "C"
+      },
+      {
+        "player": "Ted",
+        "shorthand": "TED"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Johnny",
+        "shorthand": "JO"
+      },
+      {
+        "player": "James",
+        "shorthand": "JA"
+      },
+      {
+        "player": "Young",
+        "shorthand": "Y"
+      },
+      {
+        "player": "Mike",
+        "shorthand": "MP"
+      },
+      {
+        "player": "Hanjoong",
+        "shorthand": "HJ"
+      },
+      {
+        "player": "Abhishek",
+        "shorthand": "A"
+      }
+    ]
+  },
+  "players": []
+}

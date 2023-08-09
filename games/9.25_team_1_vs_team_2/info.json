@@ -1,0 +1,60 @@
+{
+  "id": "3efe1410-c1a6-4686-8396-0e21322255b1",
+  "name": "9.25 Team 1 vs Team 2",
+  "description": "Team 2 puts on a passing clinic. HJ one assist shy of triple double",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "James",
+        "shorthand": "JA"
+      },
+      {
+        "player": "Johnny",
+        "shorthand": "JO"
+      },
+      {
+        "player": "Young",
+        "shorthand": "Y"
+      },
+      {
+        "player": "Hanjoong",
+        "shorthand": "HJ"
+      },
+      {
+        "player": "Abhishek",
+        "shorthand": "A"
+      },
+      {
+        "player": "Mike",
+        "shorthand": "MP"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Andrew J",
+        "shorthand": "AN"
+      },
+      {
+        "player": "Jon",
+        "shorthand": "J"
+      },
+      {
+        "player": "Adam",
+        "shorthand": "AD"
+      },
+      {
+        "player": "Sunghoon",
+        "shorthand": "S"
+      },
+      {
+        "player": "Kam",
+        "shorthand": "K"
+      }
+    ]
+  },
+  "players": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "343ff71f-a05a-48c4-a46e-c7bf306fc193",
+  "description": "a",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "Jordan",
+        "shorthand": "JOR"
+      },
+      {
+        "player": "Sam Nam",
+        "shorthand": "SN"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Caleb",
+        "shorthand": "CAL"
+      },
+      {
+        "player": "Abishek",
+        "shorthand": "ABI"
+      }
+    ]
+  },
+  "players": [],
+  "name": "Semi-Finals"
+}

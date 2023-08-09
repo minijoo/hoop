@@ -1,0 +1,64 @@
+{
+  "id": "608fa4ac-36b5-4ce7-bad7-9d32a7c0d750",
+  "name": "9.25 Team 1 vs Team 3",
+  "description": "Shorthanded, Team 1 keeps it close for 3 and a half quarters",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "Jon",
+        "shorthand": "J"
+      },
+      {
+        "player": "Adam",
+        "shorthand": "AD"
+      },
+      {
+        "player": "Sunghoon",
+        "shorthand": "S"
+      },
+      {
+        "player": "Kam",
+        "shorthand": "K"
+      },
+      {
+        "player": "Andrew J",
+        "shorthand": "AN"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Paul",
+        "shorthand": "PC"
+      },
+      {
+        "player": "Jordan",
+        "shorthand": "JK"
+      },
+      {
+        "player": "Changhee",
+        "shorthand": "C"
+      },
+      {
+        "player": "Ted",
+        "shorthand": "T"
+      },
+      {
+        "player": "Ram",
+        "shorthand": "R"
+      },
+      {
+        "player": "Sam N",
+        "shorthand": "SN"
+      },
+      {
+        "player": "Hyunseo",
+        "shorthand": "HY"
+      }
+    ]
+  },
+  "players": []
+}

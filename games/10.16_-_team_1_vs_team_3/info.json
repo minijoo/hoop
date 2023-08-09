@@ -1,0 +1,64 @@
+{
+  "id": "ea2dc80c-754b-4fb9-861a-b2ff60fcf3ce",
+  "name": "10.16 - Team 1 vs Team 3",
+  "description": "Changhee game winner",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "Jordan",
+        "shorthand": "JK"
+      },
+      {
+        "player": "Sam N",
+        "shorthand": "SN"
+      },
+      {
+        "player": "Changhee",
+        "shorthand": "CH"
+      },
+      {
+        "player": "Paul",
+        "shorthand": "P"
+      },
+      {
+        "player": "Ram",
+        "shorthand": "R"
+      },
+      {
+        "player": "Hyunseo",
+        "shorthand": "HS"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Sunghoon",
+        "shorthand": "SH"
+      },
+      {
+        "player": "Q",
+        "shorthand": "Q"
+      },
+      {
+        "player": "Kam",
+        "shorthand": "K"
+      },
+      {
+        "player": "Eric",
+        "shorthand": "E"
+      },
+      {
+        "player": "Caleb",
+        "shorthand": "C"
+      },
+      {
+        "player": "Andrew J",
+        "shorthand": "AJ"
+      }
+    ]
+  },
+  "players": []
+}

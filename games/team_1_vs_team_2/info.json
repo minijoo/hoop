@@ -1,0 +1,12 @@
+{
+  "id": "2a80af6e-39c2-4374-a119-48f8149b3a12",
+  "name": "Team 1 vs Team 2",
+  "description": "Jan 25th",
+  "home": {
+    "name": "home"
+  },
+  "away": {
+    "name": "away"
+  },
+  "players": []
+}

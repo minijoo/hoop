@@ -1,5 +1,20 @@
 [
   {
+    "gameDirPath": "./games/10.23_-_team_1_vs_team_2"
+  },
+  {
+    "gameDirPath": "./games/test2"
+  },
+  {
+    "gameDirPath": "./games/10.23_team_2_vs_team_3"
+  },
+  {
+    "gameDirPath": "./games/10.23_-_team_2_vs_team_3"
+  },
+  {
+    "gameDirPath": "./games/10.16_-_team_1_vs_team_2"
+  },
+  {
     "gameDirPath": "./games/10.16_team_2_vs_team_3"
   },
   {

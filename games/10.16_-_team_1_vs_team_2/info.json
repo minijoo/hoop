@@ -1,0 +1,60 @@
+{
+  "id": "ad51fc8b-2f3c-447a-99d6-4b28d65d426e",
+  "name": "10.16 - Team 1 vs Team 2",
+  "description": "33-10 double double for Mike including 9 three pointers",
+  "home": {
+    "name": "home",
+    "players": [
+      {
+        "player": "Abhishek",
+        "shorthand": "AB"
+      },
+      {
+        "player": "Mike",
+        "shorthand": "MP"
+      },
+      {
+        "player": "James",
+        "shorthand": "JA"
+      },
+      {
+        "player": "Hanjoong",
+        "shorthand": "HJ"
+      },
+      {
+        "player": "Sam L (g)",
+        "shorthand": "SL"
+      }
+    ]
+  },
+  "away": {
+    "name": "away",
+    "players": [
+      {
+        "player": "Caleb",
+        "shorthand": "C"
+      },
+      {
+        "player": "Andrew J",
+        "shorthand": "AJ"
+      },
+      {
+        "player": "Kam",
+        "shorthand": "K"
+      },
+      {
+        "player": "Sunghoon",
+        "shorthand": "SH"
+      },
+      {
+        "player": "Q",
+        "shorthand": "Q"
+      },
+      {
+        "player": "Eric",
+        "shorthand": "E"
+      }
+    ]
+  },
+  "players": []
+}
